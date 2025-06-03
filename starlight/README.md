@@ -3,10 +3,10 @@
 ````md
 # Vue Docs – Astro Starlight Edition
 
-_A mini documentation site rebuilt and rewritten for the **Product Documentation Cohort** of the Technical-Writing Mentorship Program._
+_This project is one of the assignment of  **Product Documentation Cohort** of the Technical-Writing Mentorship Program._
 
-[![Vercel Deploy](https://vercelbadge.vercel.app/api/<your-github-user>/Vue_docs)](https://vue-docs-two.vercel.app)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+- **Audit Report:** [Audit report of Vue.js](audit/audit-report.md)
 
 ---
 
